@@ -47,7 +47,7 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/ai16z/eliza-starter.git
+git clone https://github.com/orbitalfun/eliza-orbital-sol.git
 
 cp .env.example .env
 
