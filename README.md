@@ -16,6 +16,7 @@
 
 ## ✨ Features
 
+-   🤖 Full Support of Solana Deployments and Trading
 -   🛠️ Full-featured Discord, Twitter and Telegram connectors
 -   🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
 -   👥 Multi-agent and room support
